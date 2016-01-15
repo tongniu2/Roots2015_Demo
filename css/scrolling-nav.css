@@ -34,35 +34,35 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 10px;
     text-align: center;
     background: #D0C5BD;
 }
 
 .about-section {
     height: auto;
-    padding-top: 150px;
+    padding-top: 10px;
     text-align: center;
     background: #D0C5BD;
 }
 
 .programs-section {
     height: auto;
-    padding-top: 150px;
+    padding-top: 10px;
     text-align: center;
     background: #D0C5BD;
 }
 
 .sponsors-section {
     height: auto;
-    padding-top: 150px;
+    padding-top: 10px;
     text-align: center;
     background: #D0C5BD;
 }
 
 .resources-section {
     height: auto;
-    padding-top: 150px;
+    padding-top: 10px;
     text-align: center;
     background: #D0C5BD;
 }
