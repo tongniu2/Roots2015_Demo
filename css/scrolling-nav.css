@@ -7,6 +7,7 @@
 body {
     width: 100%;
     height: 100%;
+    background-color:#D0C5BD;
 }
 
 html {
@@ -39,28 +40,28 @@ of those sections to manage the look and feel of the site. */
 }
 
 .about-section {
-    height: 100%;
+    height: auto;
     padding-top: 150px;
     text-align: center;
     background: #D0C5BD;
 }
 
-.program-section {
-    height: 100%;
+.programs-section {
+    height: auto;
     padding-top: 150px;
     text-align: center;
     background: #D0C5BD;
 }
 
 .sponsors-section {
-    height: 100%;
+    height: auto;
     padding-top: 150px;
     text-align: center;
     background: #D0C5BD;
 }
 
 .resources-section {
-    height: 100%;
+    height: auto;
     padding-top: 150px;
     text-align: center;
     background: #D0C5BD;
