@@ -23,7 +23,10 @@ header,
 hgroup,
 main,
 menu,
-nav,
+nav {
+  color:black;
+  font-size:18px;
+}
 section,
 summary {
   display: block;
