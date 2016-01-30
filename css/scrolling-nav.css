@@ -18,7 +18,7 @@ html {
 
 @media(min-width:767px) {
     .navbar {
-        background-color:#4F98C4;
+        background-color:#25c5df;
         color:black;
         padding: 20px 0;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
