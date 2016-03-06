@@ -73,7 +73,7 @@ of those sections to manage the look and feel of the site. */
 .btn-outline {
     margin-top: 15px;
     margin-bottom: 15px;
-    border: solid 2px black;
+    /*border: solid 2px black;*/
     font-size: 20px;
     color: white;
     background: gray;
